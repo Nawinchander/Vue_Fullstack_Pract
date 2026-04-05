@@ -1,0 +1,9 @@
+VUE TESTING (VS CODE + REAL SETUP)
+
+
+🔹 Tools
+Vitest
+Vue Test Utils
+Cypress
+
+

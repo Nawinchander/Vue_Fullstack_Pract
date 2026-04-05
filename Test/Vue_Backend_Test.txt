@@ -16,5 +16,21 @@ Edge Cases	invalid input
 Failure	DB down, errors
 Combined API	consistency across DBs
 
+FAANG-Level Concept → Data Consistency Problem
+
+❗ What if:
+
+Mongo succeeds ❌
+MySQL fails ❌
+
+👉 You must mention:
+
+Rollback strategy
+Retry mechanism
+Event-driven approach
+💡 Example Answer:
+
+“In combined APIs, I ensure eventual consistency using retries or queue-based systems like Kafka.”
+
 
 
