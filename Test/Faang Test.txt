@@ -1,0 +1,10 @@
+FAANG-LEVEL LEARNING PATH
+
+This is the real gold 🔥
+
+🪜 Step-by-Step Learning
+🟢 Level 1 — Basics
+Unit testing (Jest / Vitest)
+Simple API tests
+Component rendering
+
