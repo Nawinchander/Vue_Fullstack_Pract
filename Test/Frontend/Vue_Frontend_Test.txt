@@ -8,3 +8,13 @@ Cypress
 
 npm package used
 ///// npm install -D vitest @vue/test-utils jsdom
+
+
+VS CODE SETUP
+
+Install:
+
+Jest Runner
+Vue VSCode Snippets
+Cypress Snippets
+
