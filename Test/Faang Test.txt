@@ -3,8 +3,62 @@ FAANG-LEVEL LEARNING PATH
 This is the real gold 🔥
 
 🪜 Step-by-Step Learning
+
 🟢 Level 1 — Basics
 Unit testing (Jest / Vitest)
 Simple API tests
 Component rendering
+
+Level 2 — Intermediate
+
+Mocking APIs (Axios)
+DB mocking
+Integration testing
+Testing async code
+
+
+🔴 Level 3 — Advanced (FAANG Level)
+
+1. System Thinking
+Test distributed systems
+Test consistency across DBs
+
+2. Failure Testing
+DB down
+Network latency
+Partial failures
+
+3. Performance Testing
+Load testing APIs
+Rate limiting validation
+
+
+4. Test Strategy
+What to test vs not test
+Cost vs value
+
+FAANG Interview Questions
+
+Be ready for:
+
+👉 “How do you test a system using multiple databases?”
+👉 “How do you ensure consistency?”
+👉 “How do you mock external services?”
+👉 “Unit vs Integration vs E2E?”
+
+💬 Perfect Interview Answer
+
+“I use unit tests for components and business logic, integration tests for API and DB interactions, and E2E tests for full user flows. For multi-database systems, I validate consistency and handle failures using retries or eventual consistency strategies.”
+
+
+FINAL TAKEAWAYS
+
+✔ Backend → Jest + Supertest
+✔ Frontend → Vitest + Vue Test Utils
+✔ E2E → Cypress
+✔ Test all 3 APIs (Mongo, MySQL, Combined)
+✔ Cover edge cases + failures
+✔ Think in system design terms
+
+
 
