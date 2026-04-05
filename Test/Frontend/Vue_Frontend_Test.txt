@@ -6,4 +6,5 @@ Vitest
 Vue Test Utils
 Cypress
 
-
+npm package used
+///// npm install -D vitest @vue/test-utils jsdom
