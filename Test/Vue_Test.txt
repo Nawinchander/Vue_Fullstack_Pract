@@ -1,0 +1,20 @@
+BACKEND TESTING (Node + Express + MongoDB + MySQL)
+
+🔹 Tools (Industry Standard)
+
+Jest → Test runner
+Supertest → API testing
+MongoDB Memory Server → mock MongoDB
+MySQL test DB (separate schema)
+
+What You Must Test (FAANG mindset)
+
+Layer	What to Test
+Route	Status codes, responses
+DB	Data correctness
+Edge Cases	invalid input
+Failure	DB down, errors
+Combined API	consistency across DBs
+
+
+
